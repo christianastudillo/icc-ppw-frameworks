@@ -1,3 +1,24 @@
+#  Práctica DOM
+
+##  Descripción de la solución
+
+Este proyecto consiste en una aplicación web que permite mostrar una lista de actividades organizadas por categorías como *Trabajo, Personal y Estudio*.
+
+La aplicación utiliza **JavaScript y manipulación del DOM** para crear dinámicamente tarjetas que contienen información como el título, descripción, categoría, prioridad y estado de cada elemento.
+
+Además, incluye:
+
+* Filtros por categoría
+* Eliminación de elementos
+* Visualización de estadísticas básicas
+
+---
+
+## Código
+
+###  CSS 
+
+```css id="css-completo"
 /* FONDO */
 body {
     background: #f4f6f9;
@@ -88,3 +109,20 @@ body {
     border-radius: 10px;
     cursor: pointer;
 }
+```
+
+---
+
+
+##  Imágenes 
+
+###  Vista general
+
+![alt text](assets/Imgresult.png)
+
+###  Filtros por categoría
+
+![alt text](assets/Imgfiltrado.png)
+
+
+---

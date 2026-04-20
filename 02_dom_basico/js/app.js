@@ -5,7 +5,7 @@
 // =====================
 
 const estudiante = {
-    nombre: 'Pablo Torres',
+    nombre: 'Christian Astudillo',
     carrera: 'Ingeniería de Sistemas',
     semestre: 5
 };
