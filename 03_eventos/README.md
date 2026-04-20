@@ -119,15 +119,10 @@ Permite enviar el formulario usando el teclado, mejorando la experiencia del usu
 
 ###  Formulario procesado
 
-![alt text](assets/Img2.png)
+![alt text](image-4.png)
 
 ---
 
-###  Event delegation funcionando
-
-![alt text](assets/img3.png)
-
----
 
 ###  Contador de tareas actualizado
 
